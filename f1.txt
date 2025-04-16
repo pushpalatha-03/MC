@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hola..
+=======
+My name is Puji
+HELLO GUYS
+>>>>>>> 076ec5f2f8b1b7557d361c381acd60de5de22ff0
